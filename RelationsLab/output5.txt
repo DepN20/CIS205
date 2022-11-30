@@ -1,0 +1,6 @@
+Set: {un, deux, trois}
+Relation: {(un, un), (un, deux), (un, trois), (trois, un), (deux, trois), (deux, un), (trois, deux)}
+
+Reflexive: No
+Symmetric: Yes
+
